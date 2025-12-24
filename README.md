@@ -1,9 +1,10 @@
 # Hi, I'm Osadi Kusalya De Zoysa 👋
 
-I'm a **Software Engineering undergraduate** 🎓 with a strong interest in building impactful **web and mobile applications**. I enjoy working across the full stack and applying modern technologies to solve real-world problems.
+I'm a **Computer Science and Engineering undergraduate** 🎓 with a strong interest in building impactful **web and mobile applications**. I enjoy working across the full stack and applying modern technologies to solve real-world problems.
 
 I'm interested in,
 
+- **Software Engineering** 💻
 - **Frontend Development** 🎨 
 - **Backend Development** ⚙️
 - **Full-Stack Development** 🧩  
