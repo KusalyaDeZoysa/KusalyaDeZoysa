@@ -1,6 +1,6 @@
 # Hi, I'm Osadi Kusalya De Zoysa 👋
 
-I'm a **Computer Science and Engineering undergraduate** 🎓 with a strong interest in building impactful **web and mobile applications**. I enjoy working across the full stack and applying modern technologies to solve real-world problems.
+I am a passionate and ambitious Computer Science and Engineering enthusiast with a strong belief in the transformative power of technology to create meaningful impact. With solid technical knowledge and hands-on project experience, I continuously strive to build innovative, efficient, and scalable solutions. I am driven to contribute effectively in dynamic industry environments while growing as a technology professional.
 
 I'm interested in,
 
